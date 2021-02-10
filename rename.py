@@ -1,3 +1,5 @@
+"""批量更改文件名称"""
+
 import os
 import sys
 
